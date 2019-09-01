@@ -10,7 +10,7 @@ Convert copyright message like "©, Author, 2019" into group of links or buttons
 * "Author" refers to author's information
 * "2019" refers to app's changelog.
 
-![CopyBar example](https://thepracticaldev.s3.amazonaws.com/i/25j5e0au5pakaw0yahg3.png)
+![Animated demonstation](./assets/demo.gif)
 
 ### About section
 
