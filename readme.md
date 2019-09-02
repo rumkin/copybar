@@ -16,7 +16,7 @@ Convert copyright message like "©, Author, 2019" into group of links or buttons
 
 This section contains license information, list of used packages, application name and version.
 
-![About section draft](https://thepracticaldev.s3.amazonaws.com/i/d2njp78vp1udldunyj5n.png)
+![About section draft](https://thepracticaldev.s3.amazonaws.com/i/akzwu45xfso5fl2syjzh.png)
 
 ### Author section
 
@@ -26,7 +26,7 @@ This section doesn't require any particular structure.
 
 Present valuable information into a web app about its' changes. Should hold list of versions with changes and links to commits.
 
-![Changelog section draft](https://thepracticaldev.s3.amazonaws.com/i/ax92refzmreq1ekbq8yb.png)
+![Changelog section draft](https://thepracticaldev.s3.amazonaws.com/i/yuhqax22di8tfdith2eh.png)
 
 ## Preview
 
